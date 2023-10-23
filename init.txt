@@ -2,3 +2,4 @@
 アクセストークンは　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
 
 新しいアクセストークンは　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
+マージの練習
